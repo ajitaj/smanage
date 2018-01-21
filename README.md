@@ -1,0 +1,2 @@
+# smanage
+GitHub Pages
