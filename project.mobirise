@@ -37,7 +37,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "http://servicemanage.in",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/lokesh1.jpg",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-1-1.png",
     "noImageResize": "true",
     "cookiesAlert": "",
     "google-analytics": "",
